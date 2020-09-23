@@ -1,6 +1,6 @@
 /*
 !.gitignore
-!/model/*.py
-!/utils/*.py
+!/model/
+!/utils/
 !/*.py
 !/*.md
